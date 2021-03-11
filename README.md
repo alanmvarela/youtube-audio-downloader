@@ -14,9 +14,9 @@ More information on youtube-dl Installation can be found in below link:
 
 # How to use
 1.Place the script anywhere within your system and run it from the console with command below:  
-`
-  $./youtube-audio-downloader.sh
-`  
+```
+$./youtube-audio-downloader.sh
+```    
 2.Paste the url to the youtube video or playlist on the console and press enter.  
 3.Wait until the execution is finished.  
 4.You will find the downloaded files on /home/$USER/Music directory.  
