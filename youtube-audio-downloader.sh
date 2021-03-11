@@ -5,4 +5,4 @@
 
 echo "Insert the URL for the video or playlist:";
 read URL;
-youtube-dl -i -o '/home/pepe/Music/%(title)s.%(ext)s' --extract-audio --audio-format mp3 '$URL';
+youtube-dl -i -o '/home/'$USER'/Music/%(title)s.%(ext)s' --extract-audio --audio-format mp3 "$URL";
