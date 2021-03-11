@@ -1,5 +1,5 @@
 # youtube-audio-downloader
-A simple bash script to download audio from youtube videos or playlist. Only works on unix based systems!
+A simple bash script to download audio from youtube videos or playlists. Only works on unix based systems!
 
 # Prerequisites
 To use this script you will have to install youtube-dl on your system.   
